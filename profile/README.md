@@ -7,7 +7,7 @@
 
 ## 🌟 What is Wonderful Mobile?
 
-Wonderful Mobile is part of the **[TechTransThai](https://www.techtransthai.org) Incubator**, dedicated to enhancing Android smartphones through custom kernels, low-level tools, and developer-focused utilities.
+Wonderful Mobile is part of the **[TechTransThai](https://techtransthai.org/campaigns/wonderful-mobile/)**, dedicated to enhancing Android smartphones through custom kernels, low-level tools, and developer-focused utilities.
 
 We build projects with love and passion for the Android and FOSS community.
 
