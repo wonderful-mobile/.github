@@ -26,7 +26,7 @@ And many more coming soon...
 
 For questions, issues, or collaboration:
 
-📧 **Email:** [hello@mindhas403.dev](mailto:hello@mindhas403.dev)  
+📧 **Email:** [blueskychan@techtransthai.org](mailto:blueskychan@techtransthai.org)  
 🔗 **Forge mirror:** [forge.techtransthai.org/wonderful-mobile](https://forge.techtransthai.org/wonderful-mobile)
 
 ---
